@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns-in-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sudo-von/design-patterns-in-typescript.git",
+  "author": "VoN <sudo.von.contact@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
