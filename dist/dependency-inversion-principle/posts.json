@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "title": "Lorem ipsum dolor sit amet",
+        "body": "Lorem ipsum dolor sit amet",
+        "postedBy": "Von"
+    },
+    {
+        "id":2,
+        "title": "Lorem ipsum dolor sit amet",
+        "body": "Lorem ipsum dolor sit amet",
+        "postedBy": "Von"
+    },
+    {
+        "id":3,
+        "title": "Lorem ipsum dolor sit amet",
+        "body": "Lorem ipsum dolor sit amet",
+        "postedBy": "Von"
+    }
+]
