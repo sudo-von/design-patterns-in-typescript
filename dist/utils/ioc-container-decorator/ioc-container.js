@@ -9,7 +9,7 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     return to.concat(ar || Array.prototype.slice.call(from));
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.IoCContainer = void 0;
+exports.Register = exports.IoCContainer = void 0;
 var IoCContainer = /** @class */ (function () {
     function IoCContainer() {
         this._dependencies = {};
@@ -46,4 +46,11 @@ var IoCContainer = /** @class */ (function () {
     return IoCContainer;
 }());
 exports.IoCContainer = IoCContainer;
+function Register(name, dependencies) {
+    var container = IoCContainer.instance;
+    return function (constructor) {
+        container.register(name, dependencies, constructor);
+    };
+}
+exports.Register = Register;
 //# sourceMappingURL=ioc-container.js.map
