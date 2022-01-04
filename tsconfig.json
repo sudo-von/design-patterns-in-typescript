@@ -12,6 +12,7 @@
             "es2018",
             "dom"
         ],
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     }
 }
