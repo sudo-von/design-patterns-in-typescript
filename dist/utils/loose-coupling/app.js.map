@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../../../src/utils/loose-coupling/app.ts"],"names":[],"mappings":";;AAAA,2DAAwD;AACxD,yCAAuC;AACvC,iDAA+C;AAE/C,IAAI,QAAQ,GAAG,IAAI,oBAAQ,CAAC,IAAI,4BAAY,EAAE,CAAC,CAAC;AAChD,QAAQ,CAAC,IAAI,EAAE,CAAC;AAEhB,IAAI,WAAW,GAAG,IAAI,oBAAQ,CAAC,IAAI,qCAAgB,EAAE,CAAC,CAAC;AACvD,WAAW,CAAC,IAAI,EAAE,CAAC"}
