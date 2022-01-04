@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sourceRoot":"","sources":["../../../src/design-patterns/factory-pattern copy/app.ts"],"names":[],"mappings":";;AAAA,qEAAkE;AAElE,IAAI,OAAO,GAAG,+CAAqB,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC;AAClD,IAAI,IAAI,GAAG,+CAAqB,CAAC,OAAO,CAAC,EAAE,CAAC,CAAC;AAE7C,OAAO,CAAC,GAAG,CAAC,sBAAsB,EAAE,OAAO,CAAC,CAAC;AAC7C,OAAO,CAAC,GAAG,CAAC,oBAAoB,EAAE,IAAI,CAAC,CAAC"}
